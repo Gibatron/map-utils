@@ -7,7 +7,8 @@
     "EntitySelectorParserMixin",
     "CommandSourceStackMixin",
     "EntitySelectorMixin",
-    "ExecuteCommandMixin"
+    "ExecuteCommandMixin",
+    "LeashKnotEntityMixin"
   ],
   "client": [
     "AbstractClientPlayerMixin",
